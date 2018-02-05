@@ -1,3 +1,3 @@
 redis-config:
   host: 10.2.1.74
-  pott: 7001
+  port: 7001
